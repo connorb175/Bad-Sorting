@@ -202,6 +202,43 @@ console.log(sorted);
 Sleep Sorts time complexity is a tough one as unlike other algorithims that are dependent on array size, Sleep Sort is dependent on the biggest element. Due to this Sleep Sorts time complexity is O(max(input))
 
 </br>
+</br>
+
+## Bogo Sort <a name="Gnome-Sort"></a>
+
+https://www.youtube.com/watch?v=6n3pFFPSlW4
+
+```js
+const { GnomeSort } = require('@yoloftw/bad-sorting');
+
+let arr = [5, 18, 3, 8, 14, 2, 13, 16];
+
+let sorted = GnomeSort(arr);
+
+console.log(sorted);
+//expected output: [2, 3, 5, 8, 13, 14, 16, 18]
+```
+
+gnome sort goes through the array and checks the item to the one before if it correct it moves on, if it is wrong it swaps the elements and restarts at the start of the list. the average complexity is O(n * n). 
+
+</br>
+</br>
+
+## Bogo Sort <a name="Guess-Sort"></a>
+
+```js
+const { GuessSort } = require('@yoloftw/bad-sorting');
+
+let arr = [5, 18, 3, 8, 14, 2, 13, 16];
+
+let sorted = GuessSort(arr);
+
+console.log(sorted);
+//expected output: [2, 3, 5, 8, 13, 14, 16, 18]
+```
+
+
+</br>
 
 ## Disclaimer <a name = "Disclaimer"></a>
 
