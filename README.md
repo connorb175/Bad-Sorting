@@ -206,7 +206,7 @@ Sleep Sorts time complexity is a tough one as unlike other algorithims that are 
 </br>
 </br>
 
-## Bogo Sort <a name="Gnome-Sort"></a>
+## Gnome Sort <a name="Gnome-Sort"></a>
 
 https://www.youtube.com/watch?v=6n3pFFPSlW4
 
