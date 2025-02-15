@@ -24,6 +24,8 @@
     - [Miracle Sort](#Miracle-Sort)
     - [Quantum Bogo Sort](#Quantum-Bogo-Sort)
     - [Sleep Sort](#Sleep-Sort)
+    - [Gnome Sort](#Gnome-Sort)
+    - [Guess sort](#Guess-sort)
 
 - [Disclaimer](#Disclaimer)
 
